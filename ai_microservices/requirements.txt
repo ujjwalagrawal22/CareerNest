@@ -1,0 +1,10 @@
+flask
+flask-cors
+google-generativeai
+python-dotenv
+PyMuPDF
+langchain-google-genai
+langchain-core
+chromadb==0.4.24
+requests
+beautifulsoup4
